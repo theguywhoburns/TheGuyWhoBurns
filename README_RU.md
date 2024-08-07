@@ -1,5 +1,3 @@
-ВНИМАНИЕ, для адекватного отображения советую вам перейти на мой github: https://github.com/theguywhoburns/TheGuyWhoBurns/blob/main/README_RU.md
-
 Привет! Я [The Guy Who Burns](https://github.com/theguywhoburns), 16-летний разработчик с любовью к программированию. Вот немного информации обо мне:
 
 ![Статистика GitHub TheGuyWhoBurns](https://github-readme-stats.vercel.app/api?username=theguywhoburns)

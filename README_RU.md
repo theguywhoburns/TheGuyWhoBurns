@@ -1,12 +1,11 @@
 Привет! Я [The Guy Who Burns](https://github.com/theguywhoburns), 16-летний разработчик с любовью к программированию. Вот немного информации обо мне:
 
-![Статистика GitHub TheGuyWhoBurns](https://github-readme-stats.vercel.app/api?username=theguywhoburns)
-![Топ языки в моем гите](https://github-readme-stats.vercel.app/api/top-langs/?username=theguywhoburns)
+[![Статистика GitHub TheGuyWhoBurns](https://github-readme-stats.vercel.app/api?username=theguywhoburns)]()
+[![Топ языки в моем гите](https://github-readme-stats.vercel.app/api/top-langs/?username=theguywhoburns)]()
 
 ## Проекты, над которыми я сейчас работаю:
-![](https://github-readme-stats.vercel.app/api/pin/?username=theguywhoburns&repo=Project-Override)
-![](https://github-readme-stats.vercel.app/api/pin/?username=theguywhoburns&repo=NNC)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=theguywhoburns&repo=Project-Override)](https://github.com/theguywhoburns/Project-Override)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=theguywhoburns&repo=NNC)](https://github.com/theguywhoburns/NNC)
 ## Языки программирования
 У меня отличные навыки в:
 - x86

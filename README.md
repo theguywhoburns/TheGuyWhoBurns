@@ -1,11 +1,11 @@
 Hello! I'm [The Guy Who Burns](https://github.com/theguywhoburns) a 16-year-old developer with a passion for programming and technology. Here's some info about me
 
-[![TheGuyWhoBurns's GitHub stats](https://github-readme-stats.vercel.app/api?username=theguywhoburns)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs in my git](https://github-readme-stats.vercel.app/api/top-langs/?username=theguywhoburns)](https://github.com/anuraghazra/github-readme-stats)
+[![TheGuyWhoBurns's GitHub stats](https://github-readme-stats.vercel.app/api?username=theguywhoburns)]()
+[![Top Langs in my git](https://github-readme-stats.vercel.app/api/top-langs/?username=theguywhoburns)]()
 
 ## The projects that i'm currently working on:
-[![](https://github-readme-stats.vercel.app/api/pin/?username=theguywhoburns&repo=Project-Override)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=theguywhoburns&repo=NNC)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=theguywhoburns&repo=Project-Override)](https://github.com/theguywhoburns/Project-Override)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=theguywhoburns&repo=NNC)](https://github.com/theguywhoburns/NNC)
 
 ## Programming Languages
 I have very good skills at:

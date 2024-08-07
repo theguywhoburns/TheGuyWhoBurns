@@ -35,7 +35,7 @@ I have very good skills at:
 - Fishing forecast telegram bot(https://t.me/PrognozklevaBot)
 - Casper Wallet(the customer asked not to distribute the link to the project)
 
-## My Projects that i'm currently working on
+## My Projects
 
 ### SklCLib
 A C utility library that I've developed to streamline various programming tasks and enhance functionality in my projects.

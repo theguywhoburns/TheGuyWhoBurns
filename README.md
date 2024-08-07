@@ -1,6 +1,13 @@
 Hello! I'm `The One Who Burns` a 16-year-old developer with a passion for programming and technology. Here's some info about me
 
+[![Top Langs in my git](https://github-readme-stats.vercel.app/api/top-langs/?username=theguywhoburns)](https://github.com/anuraghazra/github-readme-stats)
+[![TheGuyWhoBurns's GitHub stats](https://github-readme-stats.vercel.app/api?username=theguywhoburns)](https://github.com/anuraghazra/github-readme-stats)
+
+The project that i'm currently working on:
+[![](https://github-readme-stats.vercel.app/api/pin/?username=theguywhoburns&repo=Project-Override)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Programming Languages
+I have very good skills at:
 - x86 Assembly
 - C
 - C++
@@ -25,10 +32,10 @@ Hello! I'm `The One Who Burns` a 16-year-old developer with a passion for progra
 - OpenGL 
 
 ## Projects that i developed
-- Fishing forecast bot(https://t.me/PrognozklevaBot)
+- Fishing forecast telegram bot(https://t.me/PrognozklevaBot)
 - Casper Wallet(the customer asked not to distribute the link to the project)
 
-## My Projects
+## My Projects that i'm currently working on
 
 ### SklCLib
 A C utility library that I've developed to streamline various programming tasks and enhance functionality in my projects.

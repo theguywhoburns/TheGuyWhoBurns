@@ -1,4 +1,4 @@
-Hello! I'm [The Guy Who Burns](https://github.com/theguywhoburns) a 17-year-old developer with a passion for programming and technology. Here's some info about me
+Hello! I'm [The Guy Who Burns](https://github.com/theguywhoburns) a 18-year-old developer with a passion for programming and technology. Here's some info about me
 
 [![TheGuyWhoBurns's GitHub stats](https://github-readme-stats.vercel.app/api?username=theguywhoburns)]()
 [![Top Langs in my git](https://github-readme-stats.vercel.app/api/top-langs/?username=theguywhoburns)]()

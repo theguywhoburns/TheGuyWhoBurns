@@ -1,4 +1,4 @@
-Привет! Я [The Guy Who Burns](https://github.com/theguywhoburns), 16-летний разработчик с любовью к программированию. Вот немного информации обо мне:
+Привет! Я [The Guy Who Burns](https://github.com/theguywhoburns), 18-летний разработчик с любовью к программированию. Вот немного информации обо мне:
 
 [![Статистика GitHub TheGuyWhoBurns](https://github-readme-stats.vercel.app/api?username=theguywhoburns)]()
 [![Топ языки в моем гите](https://github-readme-stats.vercel.app/api/top-langs/?username=theguywhoburns)]()

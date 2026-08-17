@@ -1,7 +1,7 @@
 Hello! I'm [The Guy Who Burns](https://github.com/theguywhoburns), an 18-year-old developer with a passion for programming, systems, and technology. Here's some info about me:
 
 ## The projects that I'm currently working on:
-- 🔥 **[Blowtorch](https://github.com/theguywhoburns/blowtorch)**: A declarative spiking neural network (SNN) library for PyTorch research. Built to "write clean, run fast" using pure Python math and `torch.compile` instead of custom CUDA kernels. *(Currently in early-dev!)*
+- **[Blowtorch](https://github.com/theguywhoburns/blowtorch)**: A declarative spiking neural network (SNN) library for PyTorch research. Built to "write clean, run fast" using pure Python math and `torch.compile` instead of custom CUDA kernels. *(Currently in early-dev!)*
 - Some private ones :)
 
 ## Programming Languages
